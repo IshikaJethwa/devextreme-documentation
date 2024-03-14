@@ -2,7 +2,7 @@
 id: Component.beginUpdate()
 ---
 ---
-##### shortDescription
+
 Postpones rendering that can negatively affect performance until the [endUpdate()](/api-reference/10%20UI%20Components/Component/3%20Methods/endUpdate().md '{basewidgetpath}/Methods/#endUpdate') method is called.
 
 ---
